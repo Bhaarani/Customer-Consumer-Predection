@@ -32,10 +32,15 @@ Models
 The following machine learning models were trained and evaluated on the dataset using scikit-learn:
 
 Logistic Regression
+
 K-Nearest Neighbors (KNN)
+
 XGBoost
+
 Random Forest
+
 Usage
+
 To use the customer conversion prediction models, follow these steps:
 
 Prepare the dataset: Ensure that your dataset is in the correct format and contains the required features.
@@ -52,9 +57,13 @@ Dependencies
 This project relies on the following Python libraries and their respective versions:
 
 scikit-learn
+
 pandas
+
 numpy
+
 matplotlib
+
 seaborn
 
 
