@@ -6,16 +6,28 @@ Dataset
 The dataset used in this project contains the following columns:
 
 age: The age of the customer
+
 job: The occupation of the customer
+
 marital: The marital status of the customer
+
 education_qual: The education qualification of the customer
+
 call_type: The type of call made to the customer
+
 day: The day of the week when the call was made
+
 mon: The month when the call was made
+
 dur: The duration of the call in seconds
+
 num_calls: The number of calls made to the customer
+
 prev_outcome: The outcome of the previous marketing campaign
+
 y: The target variable indicating whether the customer converted (yes or no)
+
+
 Models
 The following machine learning models were trained and evaluated on the dataset using scikit-learn:
 
