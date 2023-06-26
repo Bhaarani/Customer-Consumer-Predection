@@ -1,4 +1,4 @@
-#Customer Conversion Prediction Model
+# Customer Conversion Prediction Model
 
 This project focuses on predicting customer conversion using various machine learning algorithms provided by Scikit-Learn. The dataset used for training and evaluation includes features such as age, job, marital status, education qualification, call type, day, month, call duration, number of calls, previous outcome, and the target variable indicating whether the customer converted or not.
 
